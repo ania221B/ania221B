@@ -1,10 +1,6 @@
 ## About me
 
----
-
 ## Pinned repositories
-
----
 
 ## GitHub stats
 
@@ -12,12 +8,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ania221b&theme=dracula)](https://git.io/streak-stats)
 
----
-
 ## Languages & tools
 
----
-
 ## Skills
-
----
