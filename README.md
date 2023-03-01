@@ -1,6 +1,6 @@
-## :books:&nbsp;About me
+## 📚&nbsp; About me
 
-### 👋 Hello and welcome!
+### 👋&nbsp;Hello and welcome!
 
 My name is Ania, I'm a self-taguht front-end developer form Poland. I build websites and apps. I have strong understanding of the building blocks of the web - **HTML, CSS & JavaScript** - so my projects are **responsive** and catch the user's eye with **simple yet fun effects**, which are always made to be **performant**.
 
@@ -8,18 +8,20 @@ So far I've completed 14 challenges from [Frontend Mentor](https://www.frontendm
 
 I'm looking to get hired in IT industry, so that I can use what I already know in building projects and further expand my skillset.
 
-### 💻 Learning now
+### 💻&nbsp;Learning now
 
 Currently I'm working on my **JavaScript skills** and learning **Sass**.
 
 ### 🎯&nbsp;Skills
+
+At the moment I work as a translator. In this job I gained the following skills:
 
 - **clear communication** - I ask precise questions and explain things in an easy to follow manner in my answers.
 - **attention to detail** - I have a good eye for nuance, which lets me make sure my work is always done to the best of my ability.
 - **good research skills** - I always make sure to find information and context needed to get the job done well.
 - **independence at work** - I try to find solutions to problems I encounter during work before reaching out for help and asking questions.
 
-### 😎 Hobbies & interests
+### 😎&nbsp;Hobbies & interests
 
 - I just love music, it makes any day better
 - I enjoy a good story, told in a a book, film, series or anime
