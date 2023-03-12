@@ -1,6 +1,18 @@
+# 👋&nbsp; Hello! I'm Ania
+
+<div id="header" align="center">
+    <img src="assets/profile-banner.png">
+</div>
+
+<div id="badges" align="left">
+    <a href="https://www.frontendmentor.io/profile/ania221B" target="_blank">
+        <img src="https://img.shields.io/badge/Frontendmentor-Profile-blue?logo=frontendmentor&logoColor=white&style=for-the-badge">
+    </a>
+</div>
+
 ## 📚&nbsp; About me
 
-### 👋&nbsp;Hello and welcome!
+### 😄&nbsp;Welcome!
 
 My name is Ania, I'm a self-taguht front-end developer form Poland. I build websites and apps. I have strong understanding of the building blocks of the web - **HTML, CSS & JavaScript** - so my projects are **responsive** and catch the user's eye with **simple yet fun effects**, which are always made to be **performant**.
 
