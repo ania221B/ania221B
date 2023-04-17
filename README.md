@@ -22,7 +22,7 @@ I'm looking to get hired in IT industry, so that I can use what I already know i
 
 ### 💻&nbsp;Learning now
 
-Currently I'm working on my **JavaScript skills** and learning **Sass**.
+Currently I'm working on my **JavaScript skills** and learning **React**.
 
 ### 🎯&nbsp;Skills
 
@@ -45,7 +45,6 @@ At the moment I work as a translator. In this job I gained the following skills:
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
 </div>
 
 <div>
