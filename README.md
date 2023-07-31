@@ -16,13 +16,13 @@
 
 My name is Ania, I'm a self-taguht frontend developer form Poland. I build websites and apps. I have strong understanding of the building blocks of the web - **HTML, CSS & JavaScript** - so my projects are **responsive** and catch the user's eye with **simple yet fun effects**, which are always made to be **performant**.
 
-So far I've completed 14 challenges from [Frontend Mentor](https://www.frontendmentor.io/home). You can check them out [here](https://www.frontendmentor.io/profile/ania221B/solutions).
+So far I've completed 16 challenges from [Frontend Mentor](https://www.frontendmentor.io/home). You can check them out [here](https://www.frontendmentor.io/profile/ania221B/solutions).
 
 I'm looking to get hired in IT industry, so that I can use what I already know in building projects and further expand my skillset.
 
 ### 💻&nbsp;Learning now
 
-Currently I'm working on my **JavaScript skills** and learning **Sass**.
+Currently I'm trying to reinforce what I've learnt so far about frontend development.
 
 ### 🎯&nbsp;Skills
 
