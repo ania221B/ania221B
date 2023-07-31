@@ -36,7 +36,7 @@ At the moment I work as a translator. In this job I gained the following skills:
 ### 😎&nbsp;Hobbies & interests
 
 - I just love music, it makes any day better
-- I enjoy a good story, told in a a book, film, series or anime
+- I enjoy a good story, told in a a book, film, TV series or else
 - I like to cook and bake, event though I'm no chef
 
 ## 🛠️&nbsp;Languages & tools
