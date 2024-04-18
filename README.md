@@ -6,7 +6,13 @@
 
 <div id="badges" align="left">
     <a href="https://www.frontendmentor.io/profile/ania221B" target="_blank">
-        <img src="https://img.shields.io/badge/Frontendmentor-Profile-blue?logo=frontendmentor&logoColor=white&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Frontendmentor-Profile-mediumvioletred?logo=frontendmentor&logoColor=white&style=for-the-badge">
+    </a>
+    <a href="https://codepen.io/ania221b" target="_blank">
+        <img src="https://img.shields.io/badge/Codepen-Profile-palevioletred?logo=codepen&logoColor=white&style=for-the-badge">
+    </a>
+    <a href="https://www.linkedin.com/in/anna-buwaj/" target="_blank">
+        <img src="https://img.shields.io/badge/Linkedin-Profile-mediumvioletred?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
 </div>
 
@@ -14,7 +20,7 @@
 
 ### 😄&nbsp;Welcome!
 
-My name is Ania, I'm a self-taguht frontend developer form Poland. I build websites and apps. I have strong understanding of the building blocks of the web - **HTML, CSS & JavaScript** - so my projects are **responsive** and catch the user's eye with **simple yet fun effects**, which are always made to be **performant**.
+My name is Ania, I'm a frontend developer form Poland. I build websites. I have strong understanding of the building blocks of the web - **HTML, CSS & JavaScript** - so my projects are **responsive** and catch the user's eye with **simple yet fun effects**, which are always made to be **performant**.
 
 So far I've completed 16 challenges from [Frontend Mentor](https://www.frontendmentor.io/home). You can check them out [here](https://www.frontendmentor.io/profile/ania221B/solutions).
 
@@ -43,6 +49,7 @@ At the moment I work as a translator. In this job I gained the following skills:
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
