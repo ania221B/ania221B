@@ -22,7 +22,7 @@
 
 My name is Ania, I'm a frontend developer form Poland. I build websites. I have strong understanding of the building blocks of the web - **HTML, CSS & JavaScript** - so my projects are **responsive** and catch the user's eye with **simple yet fun effects**, which are always made to be **performant**. I also have working knowledge of **React** and am continuing to build my expertise.
 
-So far I've completed 20 challenges from [Frontend Mentor](https://www.frontendmentor.io?target=_blank). You can check them out [here](https://www.frontendmentor.io/profile/ania221B/solutions?target=_blank).
+So far I've completed 20 challenges from <a href="https://www.frontendmentor.io" target="_blank">Frontend Mentor</a>. You can check them out <a href="https://www.frontendmentor.io/profile/ania221B/solutions" target="_blank">here</a>.
 
 I'm looking to get hired in IT industry, so that I can use what I already know in building projects and further expand my skillset.
 
@@ -61,9 +61,9 @@ At the moment I work as a translator. In this job I gained the following skills:
 
 ## 📈&nbsp;GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ania221b&layout=compact&theme=dracula)](https://github.com/ania221b/github-readme-stats?target=_blank)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ania221b&layout=compact&theme=dracula)](https://github.com/ania221b/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ania221b&theme=dracula)](https://git.io/streak-stats?target=_blank)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ania221b&theme=dracula)](https://git.io/streak-stats)
 
 <!--
 **ania221B/ania221B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
