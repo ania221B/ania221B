@@ -20,7 +20,7 @@
 
 ### 😄&nbsp;Welcome!
 
-My name is Ania, I'm a frontend developer form Poland. I build websites. I have strong understanding of the building blocks of the web - **HTML, CSS & JavaScript** - so my projects are **responsive** and catch the user's eye with **simple yet fun effects**, which are always made to be **performant**.
+My name is Ania, I'm a frontend developer form Poland. I build websites. I have strong understanding of the building blocks of the web - **HTML, CSS & JavaScript** - so my projects are **responsive** and catch the user's eye with **simple yet fun effects**, which are always made to be **performant**. I also have working knowledge of **React** and am continuing to build my expertise.
 
 So far I've completed 20 challenges from [Frontend Mentor](https://www.frontendmentor.io?target=_blank). You can check them out [here](https://www.frontendmentor.io/profile/ania221B/solutions?target=_blank).
 
